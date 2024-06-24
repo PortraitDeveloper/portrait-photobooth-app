@@ -1,6 +1,6 @@
-# portrait-photobooth-app
+# Portrait Photobooth Application
 
-A minimal Electron application with JavaScript
+Ikuti langkah-langkah dibawah ini untuk menjalankan aplikasi. 
 
 ## Recommended IDE Setup
 
